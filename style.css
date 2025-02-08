@@ -1,4 +1,4 @@
-/* Import Google Font - Poppins */
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&amp;display=swap');
 
 * {
@@ -9,7 +9,7 @@
 }
 
 :root {
-  /* Dark mode colors */
+  
   --text-color: #E3E3E3;
   --subheading-color: #828282;
   --placeholder-color: #A6A6A6;
